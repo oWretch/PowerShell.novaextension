@@ -1,0 +1,18 @@
+{
+	"identifier": "net.dailyfuneral.tech.nova.powershell",
+	"name": "PowerShell",
+	"organization": "oWretch",
+	"description": "PowerShell language configuration for Panic's Nova. Under development.",
+	"repository": "https://github.com/oWretch/PowerShell.novaextension",
+	"bugs": "https://github.com/oWretch/PowerShell.novaextension/issues",
+	"version": "0.1.0",
+	"license": "MIT",
+	"categories": [
+		"languages"
+	],
+	"main": "main.js",
+	"entitlements": {
+		"process": true,
+		"filesystem": "readonly"
+	}
+}
